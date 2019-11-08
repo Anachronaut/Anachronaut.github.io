@@ -3096,6 +3096,8 @@ input, select, textarea {
 			header.major {
 				padding-left: 2em;
 				padding-right: 2em;
+				padding-top: 5em;
+				padding-bottom: 1em;
 			}
 
 			footer.major {
