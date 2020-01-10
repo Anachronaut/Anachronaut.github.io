@@ -2228,7 +2228,7 @@ input, select, textarea {
 				color: #fff;
 				font-size: 6em;
 				height: 1em;
-				left: 50%;
+				left: 47.5%;
 				line-height: 1em;
 				margin: -0.5em 0 0 -0.5em;
 				position: absolute;
@@ -2236,6 +2236,10 @@ input, select, textarea {
 				top: 50%;
 				width: 1em;
 				z-index: 1;
+			}
+
+			.image.left-icon:before{
+				left: 50.75% !important;
 			}
 
 			.image.icon:hover:before {
